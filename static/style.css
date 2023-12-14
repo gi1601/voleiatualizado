@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 50px;
+}
+
+.card{
+    background-color: rosybrown;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    margin: 10px;
+}
+.fundo{
+    background-color: rosybrown;
+}
+
+img {
+    max-width: 200px;
+}
+
+input{
+    display: block;
+    width: calc(100% - 14px);
+    padding: 7px;
+    margin-bottom: 14px;
+}
+
+button{
+    border-radius: 10px;
+    border-color: #f4f4f4;
+    border-radius: 10px;
+    background-color: #f4f4f4;
+}
+
+.form-group{
+    border-radius: 10px;
+}
+
+.btn btn-primary{
+    border-radius: 5px;
+    background-color: black;
+}
+
+.pokemon-card{
+    margin: 80px;
+    padding: 30px;
+}
